@@ -2,8 +2,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Principal from "./components/Principal";
 import Season from "./components/Season";
 import Episode from "./components/Episode";
-import Character from "./components/Character";
 import Search from "./components/Search";
+import Character from "./components/Character";
+
 
 const App = () => {
   return (
